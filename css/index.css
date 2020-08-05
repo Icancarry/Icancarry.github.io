@@ -291,7 +291,7 @@ input::placeholder {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: no repeat;
 }
 h1,
 h2,
